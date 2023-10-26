@@ -1,6 +1,7 @@
 # EEE4022S_FinalProject
 Repo for MATLAB code for Final year project
 ## File descriptions
+- Biased_weights.m: implements part 2 of experiment 2 (varying service priority but users have specific preferences for criteria)
 - FAHP_EAM.m: uses the extent analysis method to calculate Ws
 - Gain_calculator_all_combinations.m: implements the last test of experiment 1 (tries all parameter combinations to 1dp)
 - Gain_calculator_manyUsers.m: implements the scenarios in experiment 1 for 1000 users (weight parameter determination)
