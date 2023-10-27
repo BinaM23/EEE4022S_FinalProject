@@ -1,5 +1,6 @@
 # EEE4022S_FinalProject
 Repo for MATLAB code for Final year project
+NB: methodology was adapted from [7], formerly referred to as [11] in the code comments
 ## File descriptions
 - Biased_weights.m: implements part 2 of experiment 2 (varying service priority but users have specific preferences for criteria)
 - FAHP_EAM.m: uses the extent analysis method to calculate Ws
